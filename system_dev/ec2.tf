@@ -12,6 +12,6 @@ resource "aws_instance" "example_instance" {
   ]
 
   tags = {
-    Name = "web1"
+    Name = "web_one"
   }
 }
